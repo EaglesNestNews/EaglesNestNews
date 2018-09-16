@@ -8,4 +8,7 @@ It's the new school year! This year, the newspaper team is striving to deliver o
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKvDpLUwEsYeA54flWLkDhLFpnzYankJllHFggaFeIGPkduQ/viewform?embedded=true" width="600" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 <br>
 
-# Realeases
+# Issue 1 
+Issue one of the newspaper is realeased! Click the link below to open it.
+
+https://drive.google.com/file/d/0B2Xi9N_rGI-IMWl2Rjk4MDVuUGZtc1FuR0Z4RWdkRHViaDJ3/view?usp=sharing
