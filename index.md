@@ -9,6 +9,6 @@ It's the new school year! This year, the newspaper team is striving to deliver o
 <br>
 
 # Issue 1 
-Issue one of the newspaper is realeased! Click the link below to open it.
+Issue one of the newspaper is realeased! Enjoy.
 
-https://drive.google.com/file/d/0B2Xi9N_rGI-IMWl2Rjk4MDVuUGZtc1FuR0Z4RWdkRHViaDJ3/view?usp=sharing
+<embed src="ENN.pdf" type="application/pdf" width="100%" height="600px" />
