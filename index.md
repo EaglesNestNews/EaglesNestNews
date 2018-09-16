@@ -12,3 +12,5 @@ It's the new school year! This year, the newspaper team is striving to deliver o
 Issue one of the newspaper is realeased! Enjoy.
 
 <embed src="ENN.pdf" type="application/pdf" width="600px" height="520px" />
+
+If you can't see the document it is also <a href="https://drive.google.com/file/d/0B2Xi9N_rGI-IMWl2Rjk4MDVuUGZtc1FuR0Z4RWdkRHViaDJ3/view?usp=sharing">here</a>
